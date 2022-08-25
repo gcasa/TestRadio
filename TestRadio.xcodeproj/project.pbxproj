@@ -56,11 +56,19 @@
 				14EDD44028B7E7350069966F /* AppDelegate.h */,
 				14EDD44128B7E7350069966F /* AppDelegate.m */,
 				14EDD44328B7E7390069966F /* Assets.xcassets */,
-				14EDD44528B7E73A0069966F /* MainMenu.xib */,
+				14EDD45028B7E85E0069966F /* New Group */,
 				14EDD44828B7E73A0069966F /* main.m */,
 				14EDD44A28B7E73A0069966F /* TestRadio.entitlements */,
 			);
 			path = TestRadio;
+			sourceTree = "<group>";
+		};
+		14EDD45028B7E85E0069966F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				14EDD44528B7E73A0069966F /* MainMenu.xib */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

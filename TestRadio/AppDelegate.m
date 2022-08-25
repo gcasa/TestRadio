@@ -13,6 +13,9 @@
 @end
 
 @implementation AppDelegate
+- (IBAction)radioAction:(id)sender {
+}
+
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
     // Insert code here to initialize your application
